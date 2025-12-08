@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="assets/styles.css">
 
 ---
-title: "Woo Jaehyun — AI Developer Portfolio"
+"Woo Jaehyun — AI Developer Portfolio"
 ---
 
 # 👋 Hi, I'm Woo Jaehyun  
@@ -63,4 +63,4 @@ Git · GitHub · Streamlit · MySQL
 
 ## 📫 Contact
 📧 Email: <wjaehyun97@gmail.com>  
-🔗 GitHub: <https://github.com/woojaehyun>
+🔗 GitHub: <https://github.com/Wjaehyun>
