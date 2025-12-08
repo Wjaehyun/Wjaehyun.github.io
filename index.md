@@ -63,4 +63,4 @@ Git · GitHub · Streamlit · MySQL
 
 ## 📫 Contact
 📧 Email: <wjaehyun97@gmail.com>  
-🔗 GitHub: https://github.com/woojaehyun  
+🔗 GitHub: <https://github.com/woojaehyun>
