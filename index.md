@@ -45,7 +45,7 @@ Git · GitHub · Streamlit · MySQL
 👉 [통신사 고객 이탈 예측 모델](projects/skn.md)
 
 ### 🔹 Kaggle Machine Learning Projects  
-👉 [Titanic ML Pipeline](projects/kaggle.md)
+👉 [Titanic ML Predict](projects/kaggle.md)
 
 ### 🔹 Dacon Competitions  
 👉 [Competition EDA & Modeling](projects/dacon.md)
@@ -64,4 +64,5 @@ Git · GitHub · Streamlit · MySQL
 ## 📫 Contact
 📧 Email: <wjaehyun97@gmail.com> <br>
 🔗 GitHub: <https://github.com/Wjaehyun>
+
 
