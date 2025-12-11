@@ -6,8 +6,6 @@
 - [친환경 자동차 비교 서비스](skn.md)  
 - [통신사 고객 이탈 예측 모델](skn.md)
 
-## 🔹 Kaggle  
-- [Titanic ML Pipeline](kaggle.md)
-
-## 🔹 Dacon  
-- [Competition 분석 및 모델링](dacon.md)
+## 🔹 pratice 
+- [Titanic ML Pipeline](pratice.md)
+- [].(pratice.md)
